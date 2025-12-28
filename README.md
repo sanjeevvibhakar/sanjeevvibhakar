@@ -2,7 +2,7 @@
 
 🎓 Final Year CSE Undergraduate  
 💻 Aspiring Software Engineer | Backend Development | DSA  
-🚀 Preparing for Infosys, Accenture & Product-Based Companies  
+ 
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - 🔹 **Image Caption Generator (Final Year Project)**  
   🧠 Tech: CNN, LSTM, PyTorch  
@@ -27,13 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevvibhakar&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=sanjeevvibhakar&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ### 🏆 Coding Profiles & Achievements
 - 💡 **LeetCode:** 260+ problems solved  
@@ -49,11 +42,3 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github.com/sanjeevvibhakar/sanjeevvibhakar/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github.com/sanjeevvibhakar/sanjeevvibhakar/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" 
-       src="https://github.com/sanjeevvibhakar/sanjeevvibhakar/blob/output/github-contribution-grid-snake.svg" />
-</picture>
